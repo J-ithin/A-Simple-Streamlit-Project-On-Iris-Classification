@@ -1,2 +1,4 @@
 Steps to run this project:
-In Visual Studio Code ,open the terminal and run streamlit run classification.py
+1)Download the project.
+2)Go the visual studio code,right click on the classification.py file,press on open in integrated terminal.
+3)Then run streamlit run classification.py.
